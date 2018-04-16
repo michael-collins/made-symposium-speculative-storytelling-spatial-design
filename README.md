@@ -6,8 +6,8 @@ Speculative Storytelling and Spatial Design is an hour long design clinic for th
 
 ### Themes
 
-1. Role of story and storytelling in design process and outcomes
-2. Mapping with speculative stories
+1. Role of speculative storytelling in both design process and design outcomes
+2. Spatial mapping
 3. Collaboration vs process silos
 
 ### Story Mapping Activity \(1 hr\)
